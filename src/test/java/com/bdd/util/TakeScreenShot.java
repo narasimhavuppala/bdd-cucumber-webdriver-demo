@@ -18,7 +18,7 @@ public class TakeScreenShot {
 		File screenShot=ts.getScreenshotAs(OutputType.FILE);
 		
 		try {
-			Files.copy(screenShot, new File("C:\\bdd\\emicalc\\"+ fileName + ".png"));
+			Files.copy(screenShot, new File( "target/" + fileName + ".png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
