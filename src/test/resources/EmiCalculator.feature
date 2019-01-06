@@ -12,9 +12,4 @@ Scenario Outline: scenario description
 		
 		Examples:
 		| loantab | loanAmount | loanroi |loantenure|loantenuretype|emi  |
-		| HL      | 3000000    | 11.25   |25        |Yr            |29947.00|
-		
-		
-		
-		
-		
+		| HL      | 3000000    | 11.25   |25        |Yr            |29947.00|	
