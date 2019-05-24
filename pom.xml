@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.demo.proj</groupId>
-	<artifactId>Emi-Calculator</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>Emicalculator</artifactId>
+	<version>1.0.0</version>
 
 
 	<dependencies>
@@ -47,8 +47,8 @@
 					<version>3.7.0</version>
 					<configuration>
 						<!-- put your configurations here -->
-						<source>1.7</source>
-						<target>1.7</target>
+						<source>1.8</source>
+						<target>1.8</target>
 					</configuration>
 				</plugin>
 

@@ -1,10 +1,17 @@
-# bdd-final-demo
-mvn clean install
+# BDD Web Driver Usage
+- mvn clean install
 
-# This Project covers below aspects:
-	- Maven usage
-	- Cucumber usage
-	- Gherkin usage
-	- Selenium integration
-	- Web Driver usage
-	- Taking screenshots with Selenium
+## This Project covers below aspects:
+- Maven usage
+	- Surefire modifications
+- Cucumber usage
+- Gherkin usage
+	- Given
+	- When
+	- Then
+- Selenium integration
+- Web Driver usage
+	- Waits
+		- Implicit Waits
+		- Explicit Waits
+- Taking screenshots with Selenium
